@@ -18,8 +18,12 @@
       "@webapps/accounts": ["libs/accounts/src/index.ts"],
       "@webapps/fuse": ["libs/fuse/src/index.ts"],
       "@webapps/history": ["libs/history/src/index.ts"],
+      "@webapps/invoices": ["libs/invoices/src/index.ts"],
       "@webapps/lodash": ["libs/lodash/src/index.ts"],
-      "@webapps/mock-api": ["libs/mock-api/src/index.ts"]
+      "@webapps/mock-api": ["libs/mock-api/src/index.ts"],
+      "@webapps/orders": ["libs/orders/src/index.ts"],
+      "@webapps/products": ["libs/products/src/index.ts"],
+      "@webapps/profile": ["libs/profile/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
