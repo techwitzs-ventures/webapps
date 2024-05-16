@@ -14,7 +14,13 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@webapps/accounts": ["libs/accounts/src/index.ts"],
+      "@webapps/fuse": ["libs/fuse/src/index.ts"],
+      "@webapps/history": ["libs/history/src/index.ts"],
+      "@webapps/lodash": ["libs/lodash/src/index.ts"],
+      "@webapps/mock-api": ["libs/mock-api/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
