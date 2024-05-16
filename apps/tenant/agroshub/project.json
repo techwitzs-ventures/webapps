@@ -1,0 +1,9 @@
+{
+  "name": "tenant-agroshub",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/tenant/agroshub/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project tenant-agroshub --web",
+  "targets": {}
+}

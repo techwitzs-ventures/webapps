@@ -1,0 +1,9 @@
+{
+  "name": "onboard-agroshub",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/onboard/agroshub/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project onboard-agroshub --web",
+  "targets": {}
+}
